@@ -10,7 +10,7 @@
       <p><b>邮编:163318</b></p>
     </td>
     <td width="45%">
-      <img src="slw.jpg" width="100%">
+      <img src="song.jpg" width="100%">
     </td>
   </tr>
 </table>
