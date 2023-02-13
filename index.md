@@ -50,30 +50,28 @@
 10. 各向异性介质逆时偏移成像方法研究，**东北石油大学引导性创新基金**，2017.03-2018.12,主持.
 
 ### 代表性论文
-1. 宋利伟，石颖，刘伟，赵强. Elastic Reverse Time Migration for Weakly Illuminated Structure. Applied Sciences. 2022; 12(10):5264.
-2. 宋利伟,石颖,陈树民等.地下黏弹性介质波动方程及波场数值模拟.物理学报,2021,70(14):409-415.
-3. 宋利伟,石颖,柯璇.基于解析法波场分离的逆时偏移成像.地球物理学进展,2018,33(04):1573-1578.
-4. 宋利伟,石颖,柯璇等.基于检查点方法的各向异性介质逆时偏移.石油物探,2018,57(02):274-282.
-5. 宋利伟,石颖,柯璇等.变阶数有限差分法及逆时偏移有效边界存储最优化策略.地球物理学进展,2017,32(06):2527-2532.
-6. 宋利伟，石颖，刘伟，赵强. Elastic Reverse Time Migration for Weakly Illuminated Structure. Applied Sciences. 2022; 12(10):5264.
-7. **Xuan Ke**, Ying Shi，Weihong Wang. An efficient wavefield simulation and reconstruction method for least-squares reverse time migration [J]. Journal of Seismic Exploration, 2018, 27(2):183-200.
-8. [**柯璇**, 石颖. 基于一步法波场延拓的正演模拟和逆时偏移成像 [J]. 地球物理学报, 2017，60(11):4468-4479.](/files/SCI-地球物理学报-基于一步法波场延拓的正演模拟和逆时偏移成像.pdf)
-9. [**柯璇**, 石颖, 张莹莹, 等. 地震叠前逆时偏移衰减随机边界条件研究 [J]. 石油物探, 2017,56(4):523-533.](/files/统计源-石油物探-地震叠前逆时偏移衰减随机边界条件研究-正文.pdf)
-10. [**柯璇**, 石颖, 宋利伟, 等. 基于褶积完全匹配吸收边界的声波方程数值模拟 [J]. 石油物探, 2017，56(5):637-643.](/files/统计源-石油物探-基于褶积完全匹配吸收边界的声波方程数值模拟-正文.pdf)
-11. [**Xuan Ke**, Ying Shi . Selected-aperture imaging of walkaway VSP reverse time migration. [C] SEG 2018 Workshop: Reservoir Geophysics, Daqing, China, 5-7 August 2018.](/files/Selected-aperture imaging of walkaway VSP reverse time migration.pdf)
-12. [**柯璇**, 石颖, 张伟, 等. 基于多线程多GPU并行加速的最小二乘逆时偏移算法 [J]. 石油物探, 2019, 058(001):88-102.](/files/基于多线程多GPU并行加速的最小二乘逆时偏移算法.pdf)
-13. [**柯璇**, 石颖, 刘诗竹. 地震资料逆时偏移中的图形处理器加速算法 [J]. 计算机系统应用, 2013, 22(011):115-118.](/files/地震资料逆时偏移中的图形处理器加速算法_柯璇.pdf)
-14. [Ying Shi, Dongsheng Tian, **Xuan Ke**. Denoise Investigation on Prestack Reverse time Migration Based on GPU/CPU Collaborative Parallel Accelerating Computation [C]. International Conference on Computational & Information Sciences. IEEE Computer Society, 2013.](/files/EI-2013-Denoise investigation on prestack reverse time migration based on GPUCPU collaborative parallel accelerating computation.pdf)
-15. [宋利伟, 石颖, **柯璇**, 等. 变阶数有限差分法及逆时偏移有效边界存储最优化策略 [J]. 地球物理学进展, 2017, 032(006):2527-2532.](/files/核心-地球物理学进展-变阶数有限差分法及逆时偏移有效边界存储最优化策略-正文.pdf)
+1. **Liwei Song**, Ying Shi, Wei Liu, Qiang Zhao. Elastic Reverse Time Migration for Weakly Illuminated Structure. Applied Sciences. 2022, 12(10):5264.
+2. **Liwei Song**, Ying Shi, Shumin Chen, et al. Target-oriented reverse time migration in transverse isotropy media. Acta Geophysica, 2021, 69(1)：125-134.
+3. **宋利伟**,石颖,陈树民等.地下黏弹性介质波动方程及波场数值模拟.物理学报,2021,70(14):409-415.
+4. **Liwei Song**, Ying Shi, Xuan Ke. Reverse time migration of TTI media using the decomposed wavefiled. Journal of Seismic Exploration, 2019, 28(3):245-256.
+5. **宋利伟**,石颖,柯璇.基于解析法波场分离的逆时偏移成像.地球物理学进展,2018, 33(04):1573-1578.
+6. **宋利伟**,石颖,柯璇等.基于检查点方法的各向异性介质逆时偏移.石油物探,2018,57(02):274-282.
+7. **宋利伟**,石颖,柯璇等.变阶数有限差分法及逆时偏移有效边界存储最优化策略.地球物理学进展, 2017, 32(06):2527-2532.
+8. **Liwei Song**, Ying Shi, Weihong Wang. The application of seismic data processing in resource exploration.ICEESE, 2015, 1215-1218.
+9. **宋利伟**. 基于反泄漏Fourier 变换方法的地震数据重建研究. 中国地球科学联合学术年会, 2015.
+10. Xuan Ke, Ying Shi, Xiaofei Fu, **Liwei Song**, Hongliang Jing. The n-th Power Fourier Spectrum Analysis for the Generalized Seismic Wavelets. IEEE TGRS, 2023: 1-10. 张岩, 崔淋淇, **宋利伟**, 等. 基于空间—波数域联合深度学习的数值频散压制. 石油地球物理勘探,2022,57(3):510-524. 
+11. 韩连福, 柴子威, **宋利伟**, 等. 基于深度学习的地震波逆时偏移补偿方法. 测井技术,2022,46(1):109-113.
+12. 柯璇, 石颖, **宋利伟**, 等. 基于褶积完全匹配吸收边界的声波方程数值模拟. 石油物探, 2017，56(5):637-643.
 
 ### 知识产权
-1. 发明专利，**柯璇**, 石颖, 王维红, 郭雪豹, 刘宗利, 刘伟. 地震数据非局部均值去噪方法.
-2. 发明专利，石颖, 王维红, **柯璇**, 郭雪豹, 李婷婷, 宋立伟. 一种碳酸盐岩储层的逆时偏移方法.
-3. 发明专利，石颖，张伟，王维红，**柯璇**，杨育臣，李松龄.基于弹性波最小二乘逆时偏移成像的方法及系统.
-4. 发明专利，王维红, 石颖, 陈树民, 郭雪豹, **柯璇**, 刘诗竹. 一种三维VSP数据的逆时偏移方法.
-5. 发明专利，王维红, 石颖, 郭雪豹, 李婷婷, **柯璇**, 井洪亮. 一种基于地震数据的静校正方法.
-6. 发明专利，王维红, 赵婧文, 石颖, 郭雪豹, 李婷婷, **柯璇**. 一种基于L1范数多道匹配滤波压制多次波的方法.
-7. 实用新型专利，石颖, 王维红, 于舒杰, **柯璇**. 岩石孔隙中的气体脱附及采集装置.
+1. 
+2. 发明专利，**柯璇**, 石颖, 王维红, 郭雪豹, 刘宗利, 刘伟. 地震数据非局部均值去噪方法.
+3. 发明专利，石颖, 王维红, **柯璇**, 郭雪豹, 李婷婷, 宋利伟. 一种碳酸盐岩储层的逆时偏移方法.
+4. 发明专利，石颖，张伟，王维红，**柯璇**，杨育臣，李松龄.基于弹性波最小二乘逆时偏移成像的方法及系统.
+5. 发明专利，王维红, 石颖, 陈树民, 郭雪豹, **柯璇**, 刘诗竹. 一种三维VSP数据的逆时偏移方法.
+6. 发明专利，王维红, 石颖, 郭雪豹, 李婷婷, **柯璇**, 井洪亮. 一种基于地震数据的静校正方法.
+7. 发明专利，王维红, 赵婧文, 石颖, 郭雪豹, 李婷婷, **柯璇**. 一种基于L1范数多道匹配滤波压制多次波的方法.
+8. 实用新型专利，石颖, 王维红, 于舒杰, **柯璇**. 岩石孔隙中的气体脱附及采集装置.
 
 ### 学术兼职、职务及荣誉
 1. 黑龙江省科学技术三等奖.
