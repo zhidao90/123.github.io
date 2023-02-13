@@ -41,27 +41,30 @@
 1. 物理和数据混合驱动的黏弹性介质纯P波最小二乘逆时偏移方法，**国家自然基金（面上项目）**，2023.01-2026.12,主持.
 2. 多方位多时刻三维最小二乘逆时偏移方法研究，**国家自然基金（青年基金）**，2019.01-2021.12,参加.
 3. VSP全波场反演偏移成像，**国家自然基金（面上项目）**，2016.01-2019.12,参加.
-4. 基于深度学习的黏声介质深层构造逆时偏移研究，**黑龙江省青年创新人才项目**，2020.10-2023.10,主持.
-5. VSP最小二乘逆时偏移研究，**黑龙江省青年创新人才项目**，2016.07-2019.07,参加.
-6. 粘声介质最小二乘逆时偏移及全波形反演研究，**国家自然科学基金（重点项目）**，2020.01-2024.12,参加.  
-7. 页岩油储层地震波场模拟及逆时成像方法研究,**黑龙江省自然科学基金（优秀青年项目）**,2021.07-2024.07,主持.
-8. 双复杂区各向异性逆时偏移成像方法，**中国石油科技创新基金研究项目**，2021.12-2024.11，主持.
-9. VSP数据染色叠前逆时成像方法，**中国博士后科学基金第65批面上资助**，2018.04-2021.04,主持.  
-10. CPU/GPU并行加速三维地震数据规则化方法研究，**黑龙江省科学基金（面上项目）**，2015.07-2018.07,参加.  
-11. VSP地震资料最小二乘逆时偏移方法研究，**黑龙江省政府博士后资助项目**，2018.11-2020.11,主持.  
-12. 基于深度学习的地震波场模拟方法研究，**大庆市创新性指导项目**，2020.01-2022.06,主持.
+4. 声波模拟软件师资培训，**教育部产学合作协同育人项目**，2022.11-2023.12,主持.
+5. 基于深度学习的黏声介质深层构造逆时偏移研究，**黑龙江省青年创新人才项目**，2020.10-2023.10,主持.
+6. VSP最小二乘逆时偏移研究，**黑龙江省自然科学基金（杰出青年项目）**，2016.07-2019.07,参加.
+7. 页岩油储层地震波场模拟及逆时成像方法研究,**黑龙江省自然科学基金（优秀青年项目）**,2021.07-2024.07,参加.
+8. 基于深度学习的黏滞性介质最小二乘逆时偏移研究，**大庆市创新性指导项目**，2022.01-2024.06,主持.
+9. 黏性介质地震波数值模拟及逆时偏移，**东北石油大学青年科学基金**，2019.10-2022.10,主持.
+10. 各向异性介质逆时偏移成像方法研究，**东北石油大学引导性创新基金**，2017.03-2018.12,主持.
 
 ### 代表性论文
-1. [**柯璇**，石颖，王银凤.基于多倍角公式的一步波场外推法 [J]. 地球物理学报, 2021，64(7):4468-4479.](/files/基于多倍角公式的一步波场外推法.pdf)
-2. **Xuan Ke**, Ying Shi，Weihong Wang. An efficient wavefield simulation and reconstruction method for least-squares reverse time migration [J]. Journal of Seismic Exploration, 2018, 27(2):183-200.
-3. [**柯璇**, 石颖. 基于一步法波场延拓的正演模拟和逆时偏移成像 [J]. 地球物理学报, 2017，60(11):4468-4479.](/files/SCI-地球物理学报-基于一步法波场延拓的正演模拟和逆时偏移成像.pdf)
-4. [**柯璇**, 石颖, 张莹莹, 等. 地震叠前逆时偏移衰减随机边界条件研究 [J]. 石油物探, 2017,56(4):523-533.](/files/统计源-石油物探-地震叠前逆时偏移衰减随机边界条件研究-正文.pdf)
-5. [**柯璇**, 石颖, 宋利伟, 等. 基于褶积完全匹配吸收边界的声波方程数值模拟 [J]. 石油物探, 2017，56(5):637-643.](/files/统计源-石油物探-基于褶积完全匹配吸收边界的声波方程数值模拟-正文.pdf)
-6. [**Xuan Ke**, Ying Shi . Selected-aperture imaging of walkaway VSP reverse time migration. [C] SEG 2018 Workshop: Reservoir Geophysics, Daqing, China, 5-7 August 2018.](/files/Selected-aperture imaging of walkaway VSP reverse time migration.pdf)
-7. [**柯璇**, 石颖, 张伟, 等. 基于多线程多GPU并行加速的最小二乘逆时偏移算法 [J]. 石油物探, 2019, 058(001):88-102.](/files/基于多线程多GPU并行加速的最小二乘逆时偏移算法.pdf)
-8. [**柯璇**, 石颖, 刘诗竹. 地震资料逆时偏移中的图形处理器加速算法 [J]. 计算机系统应用, 2013, 22(011):115-118.](/files/地震资料逆时偏移中的图形处理器加速算法_柯璇.pdf)
-9. [Ying Shi, Dongsheng Tian, **Xuan Ke**. Denoise Investigation on Prestack Reverse time Migration Based on GPU/CPU Collaborative Parallel Accelerating Computation [C]. International Conference on Computational & Information Sciences. IEEE Computer Society, 2013.](/files/EI-2013-Denoise investigation on prestack reverse time migration based on GPUCPU collaborative parallel accelerating computation.pdf)
-10. [宋利伟, 石颖, **柯璇**, 等. 变阶数有限差分法及逆时偏移有效边界存储最优化策略 [J]. 地球物理学进展, 2017, 032(006):2527-2532.](/files/核心-地球物理学进展-变阶数有限差分法及逆时偏移有效边界存储最优化策略-正文.pdf)
+1. 宋利伟，石颖，刘伟，赵强. Elastic Reverse Time Migration for Weakly Illuminated Structure. Applied Sciences. 2022; 12(10):5264.
+2. 宋利伟,石颖,陈树民等.地下黏弹性介质波动方程及波场数值模拟.物理学报,2021,70(14):409-415.
+3. 宋利伟,石颖,柯璇.基于解析法波场分离的逆时偏移成像.地球物理学进展,2018,33(04):1573-1578.
+4. 宋利伟,石颖,柯璇等.基于检查点方法的各向异性介质逆时偏移.石油物探,2018,57(02):274-282.
+5. 宋利伟,石颖,柯璇等.变阶数有限差分法及逆时偏移有效边界存储最优化策略.地球物理学进展,2017,32(06):2527-2532.
+6. 宋利伟，石颖，刘伟，赵强. Elastic Reverse Time Migration for Weakly Illuminated Structure. Applied Sciences. 2022; 12(10):5264.
+7. **Xuan Ke**, Ying Shi，Weihong Wang. An efficient wavefield simulation and reconstruction method for least-squares reverse time migration [J]. Journal of Seismic Exploration, 2018, 27(2):183-200.
+8. [**柯璇**, 石颖. 基于一步法波场延拓的正演模拟和逆时偏移成像 [J]. 地球物理学报, 2017，60(11):4468-4479.](/files/SCI-地球物理学报-基于一步法波场延拓的正演模拟和逆时偏移成像.pdf)
+9. [**柯璇**, 石颖, 张莹莹, 等. 地震叠前逆时偏移衰减随机边界条件研究 [J]. 石油物探, 2017,56(4):523-533.](/files/统计源-石油物探-地震叠前逆时偏移衰减随机边界条件研究-正文.pdf)
+10. [**柯璇**, 石颖, 宋利伟, 等. 基于褶积完全匹配吸收边界的声波方程数值模拟 [J]. 石油物探, 2017，56(5):637-643.](/files/统计源-石油物探-基于褶积完全匹配吸收边界的声波方程数值模拟-正文.pdf)
+11. [**Xuan Ke**, Ying Shi . Selected-aperture imaging of walkaway VSP reverse time migration. [C] SEG 2018 Workshop: Reservoir Geophysics, Daqing, China, 5-7 August 2018.](/files/Selected-aperture imaging of walkaway VSP reverse time migration.pdf)
+12. [**柯璇**, 石颖, 张伟, 等. 基于多线程多GPU并行加速的最小二乘逆时偏移算法 [J]. 石油物探, 2019, 058(001):88-102.](/files/基于多线程多GPU并行加速的最小二乘逆时偏移算法.pdf)
+13. [**柯璇**, 石颖, 刘诗竹. 地震资料逆时偏移中的图形处理器加速算法 [J]. 计算机系统应用, 2013, 22(011):115-118.](/files/地震资料逆时偏移中的图形处理器加速算法_柯璇.pdf)
+14. [Ying Shi, Dongsheng Tian, **Xuan Ke**. Denoise Investigation on Prestack Reverse time Migration Based on GPU/CPU Collaborative Parallel Accelerating Computation [C]. International Conference on Computational & Information Sciences. IEEE Computer Society, 2013.](/files/EI-2013-Denoise investigation on prestack reverse time migration based on GPUCPU collaborative parallel accelerating computation.pdf)
+15. [宋利伟, 石颖, **柯璇**, 等. 变阶数有限差分法及逆时偏移有效边界存储最优化策略 [J]. 地球物理学进展, 2017, 032(006):2527-2532.](/files/核心-地球物理学进展-变阶数有限差分法及逆时偏移有效边界存储最优化策略-正文.pdf)
 
 ### 知识产权
 1. 发明专利，**柯璇**, 石颖, 王维红, 郭雪豹, 刘宗利, 刘伟. 地震数据非局部均值去噪方法.
