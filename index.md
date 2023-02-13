@@ -59,9 +59,10 @@
 7. **宋利伟**,石颖,柯璇等.变阶数有限差分法及逆时偏移有效边界存储最优化策略.地球物理学进展, 2017, 32(06):2527-2532.
 8. **Liwei Song**, Ying Shi, Weihong Wang. The application of seismic data processing in resource exploration.ICEESE, 2015, 1215-1218.
 9. **宋利伟**. 基于反泄漏Fourier 变换方法的地震数据重建研究. 中国地球科学联合学术年会, 2015.
-10. Xuan Ke, Ying Shi, Xiaofei Fu, **Liwei Song**, Hongliang Jing. The n-th Power Fourier Spectrum Analysis for the Generalized Seismic Wavelets. IEEE TGRS, 2023: 1-10. 张岩, 崔淋淇, **宋利伟**, 等. 基于空间—波数域联合深度学习的数值频散压制. 石油地球物理勘探,2022,57(3):510-524. 
-11. 韩连福, 柴子威, **宋利伟**, 等. 基于深度学习的地震波逆时偏移补偿方法. 测井技术,2022,46(1):109-113.
-12. 柯璇, 石颖, **宋利伟**, 等. 基于褶积完全匹配吸收边界的声波方程数值模拟. 石油物探, 2017，56(5):637-643.
+10. Xuan Ke, Ying Shi, Xiaofei Fu, **Liwei Song**, Hongliang Jing. The n-th Power Fourier Spectrum Analysis for the Generalized Seismic Wavelets. IEEE TGRS, 2023: 1-10.
+11. 张岩, 崔淋淇, **宋利伟**, 等. 基于空间—波数域联合深度学习的数值频散压制. 石油地球物理勘探,2022,57(3):510-524. 
+12. 韩连福, 柴子威, **宋利伟**, 等. 基于深度学习的地震波逆时偏移补偿方法. 测井技术,2022,46(1):109-113.
+13. 柯璇, 石颖, **宋利伟**, 等. 基于褶积完全匹配吸收边界的声波方程数值模拟. 石油物探, 2017，56(5):637-643.
 
 ### 知识产权
 1. 发明专利，**宋利伟**; 石颖; 王维红; 柯璇; 李松龄; 郭雪豹. 针对VTI介质逆时偏移方法、设备及介质
